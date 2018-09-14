@@ -1,5 +1,7 @@
 * Identicon
 
+[[file:https:/travis-ci.org/yafeunteun/identicon.svg?branch=master][https://travis-ci.org/yafeunteun/identicon]]
+
 **TODO: Add description**
 
 ** Installation
