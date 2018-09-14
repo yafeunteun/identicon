@@ -3,7 +3,18 @@
 [[https://travis-ci.org/yafeunteun/identicon][file:https://travis-ci.org/yafeunteun/identicon.svg?branch=master]] 
 
 
-Generates random [[https://en.wikipedia.org/wiki/Identicon][identicon]] images.
+Generates random [[https://en.wikipedia.org/wiki/Identicon][identicon]] images from a string.
+
+** Example
+
+#+BEGIN_SRC elixir
+Identicon.main("yafeunteun")
+#+END_SRC
+
+produces the following image: 
+
+[[file:docs/examples/yafeunteun.png][file:docs/examples/yafeunteun.png]]
+
 
 ** Installation
 
