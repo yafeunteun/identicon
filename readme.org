@@ -1,6 +1,6 @@
 * Identicon
 
-[[https://travis-ci.org/yafeunteun/identicon][file:https:/travis-ci.org/yafeunteun/identicon.svg?branch=master]]
+[[file:https:/travis-ci.org/yafeunteun/identicon.svg?branch=master][https://travis-ci.org/yafeunteun/identicon]]
 
 Generates random [[https://en.wikipedia.org/wiki/Identicon][identicon]] images.
 
