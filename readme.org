@@ -1,8 +1,8 @@
 * Identicon
 
-[[file:https:/travis-ci.org/yafeunteun/identicon.svg?branch=master][https://travis-ci.org/yafeunteun/identicon]]
+[[https://travis-ci.org/yafeunteun/identicon][file:https:/travis-ci.org/yafeunteun/identicon.svg?branch=master]]
 
-**TODO: Add description**
+Generates random [[https://en.wikipedia.org/wiki/Identicon][identicon]] images.
 
 ** Installation
 
